@@ -8,4 +8,4 @@ I will reply to your email ✉ as soon as I'm back 🔙. For anything urgent �
 
 --foreach - $Topic1, please contact $Topic1Contact --end
 
-Cheers David
+Cheers $Name
